@@ -16,7 +16,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```java
 	dependencies {
-	        compile 'com.github.mapsh:mvp:1.0.0'
+	        compile 'com.github.cnsyzb:sdk:1.0.6'
 	}
 ```
 # 说明
